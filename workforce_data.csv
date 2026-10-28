@@ -1,301 +1,301 @@
-Employee,Skill,Grade,Location,Project,Billable Hours,Available Hours,Utilization,Util Status,Bench,Manager,Employee id,,
-EMP001,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,80,160,50%,Partial,80,Eliseo Ortiz,EMP001,50%,Yes
-EMP002,Duck Creek,Senior Manager,Offshore (India),BENCH-INS,0,160,0%,bench risk,160,Rajesh Kumar,EMP002,0%,Yes
-EMP003,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,120,160,75%,healthy,40,Meredith Grey,EMP003,75%,Yes
-EMP004,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,70,160,44%,need more allocation,0,Michael Chang,EMP004,100%,no
-EMP005,IAM,Consultant,Offshore (India),BENCH-CYB,0,160,0%,bench risk,160,Michael Chang,EMP005,0%,Yes
-EMP006,Mainframe,Manager,Onshore (US),PRJ-INS-MF02,100,160,63%,Partial,20,Michael Chang,EMP006,88%,no
-EMP007,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,65,160,41%,need more allocation,0,Michael Chang,EMP007,100%,no
-EMP008,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,72,160,45%,need more allocation,0,Michael Chang,EMP008,100%,no
-EMP009,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,110,160,69%,Partial,20,Olivia Benson,EMP009,88%,no
-EMP010,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK02,71,160,44%,need more allocation,0,Julianna Zielinski,EMP010,100%,no
-EMP011,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,40,Michael Chang,EMP011,75%,Yes
-EMP012,SRCR,Senior Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP012,0%,Yes
-EMP013,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,75,160,47%,need more allocation,0,Michael Chang,EMP013,100%,no
-EMP014,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,76,160,48%,need more allocation,0,Eleanor Dombrowski,EMP014,100%,no
-EMP015,Mainframe,Manager,Onshore (UK),PRJ-INS-MF01,77,160,48%,need more allocation,0,Michael Chang,EMP015,100%,no
-EMP016,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,80,160,50%,Partial,0,Harrison Bennett,EMP016,100%,no
-EMP017,IAM,Senior Consultant,Nearshore (Poland),PRJ-CYB-IAM01,82,160,51%,Partial,0,Eleanor Dombrowski,EMP017,100%,no
-EMP018,IAM,Senior Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP018,0%,Yes
-EMP019,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,81,160,51%,Partial,0,Harrison Bennett,EMP019,100%,no
-EMP020,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR02,74,160,46%,need more allocation,0,Meredith Grey,EMP020,100%,no
-EMP021,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,80,160,50%,Partial,80,Vikram Malhotra,EMP021,50%,Yes
-EMP022,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,69,160,43%,need more allocation,0,Meredith Grey,EMP022,100%,no
-EMP023,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,100,160,63%,Partial,0,Meredith Grey,EMP023,100%,no
-EMP024,SRCR,Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,0,Julianna Zielinski,EMP024,100%,no
-EMP025,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,99,160,62%,Partial,20,Michael Chang,EMP025,88%,no
-EMP026,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,90,160,56%,Partial,0,Ananya Rao,EMP026,100%,no
-EMP027,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK02,100,160,63%,Partial,0,Eliseo Ortiz,EMP027,100%,no
-EMP028,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,120,160,75%,healthy,40,Matthew Novak,EMP028,75%,Yes
-EMP029,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,110,160,69%,Partial,0,Harrison Bennett,EMP029,100%,no
-EMP030,SRCR,Manager,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Meredith Grey,EMP030,0%,Yes
-EMP031,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,96,160,60%,Partial,20,Vikram Malhotra,EMP031,88%,no
-EMP032,IAM,Consultant,Onshore (US),PRJ-CYB-IAM02,96,160,60%,Partial,20,Olivia Benson,EMP032,88%,no
-EMP033,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK02,120,160,75%,healthy,0,Deepak Sharma,EMP033,100%,no
-EMP034,SRCR,Manager,Nearshore (Poland),PRJ-CYB-SRCR02,115,160,72%,healthy,0,Michael Chang,EMP034,100%,no
-EMP035,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR02,98,160,61%,Partial,20,Olivia Benson,EMP035,88%,no
-EMP036,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,0,Stanley Kowalski,EMP036,100%,no
-EMP037,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,96,160,60%,Partial,20,Matthew Novak,EMP037,88%,no
-EMP038,Duck Creek,Senior Consultant,Offshore (India),PRJ-INS-DUCK01,130,160,81%,healthy,0,Deepak Sharma,EMP038,100%,no
-EMP039,SRCR,Consultant,Offshore (India),PRJ-CYB-SRCR01,99,160,62%,Partial,0,Michael Chang,EMP039,100%,no
-EMP040,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,95,160,59%,Partial,0,Eliseo Ortiz,EMP040,100%,no
-EMP041,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,95,160,59%,Partial,0,Meredith Grey,EMP041,100%,no
-EMP042,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF01,96,160,60%,Partial,0,Stanley Kowalski,EMP042,100%,no
-EMP043,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR01,69,160,43%,need more allocation,0,Eleanor Dombrowski,EMP043,100%,no
-EMP044,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,96,160,60%,Partial,0,Meredith Grey,EMP044,100%,no
-EMP045,Duck Creek,Senior Manager,Onshore (US),BENCH-INS,0,160,0%,bench risk,160,Eliseo Ortiz,EMP045,0%,Yes
-EMP046,Mainframe,Consultant,Offshore (India),PRJ-INS-MF02,99,160,62%,Partial,0,Rajesh Kumar,EMP046,100%,no
-EMP047,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK01,100,160,63%,Partial,0,Harrison Bennett,EMP047,100%,no
-EMP048,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,100,160,63%,Partial,0,Stanley Kowalski,EMP048,100%,no
-EMP049,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF01,120,160,75%,healthy,40,Ananya Rao,EMP049,75%,Yes
-EMP050,Mainframe,Senior Manager,Onshore (US),BENCH-INS,0,160,0%,bench risk,160,Eliseo Ortiz,EMP050,0%,Yes
-EMP051,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,110,160,69%,Partial,0,Olivia Benson,EMP051,100%,no
-EMP052,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,111,160,69%,Partial,0,Michael Chang,EMP052,100%,no
-EMP053,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM02,112,160,70%,healthy,0,Eliseo Ortiz,EMP053,100%,no
-EMP054,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,120,160,75%,healthy,40,Michael Chang,EMP054,75%,Yes
-EMP055,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK01,80,160,50%,Partial,80,Michael Chang,EMP055,50%,Yes
-EMP056,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,96,160,60%,Partial,20,Michael Chang,EMP056,88%,no
-EMP057,IAM,Senior Consultant,Offshore (India),PRJ-CYB-IAM01,113,160,71%,healthy,0,Ananya Rao,EMP057,100%,no
-EMP058,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK02,133,160,83%,healthy,0,Harrison Bennett,EMP058,100%,no
-EMP059,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,134,160,84%,healthy,0,Michael Chang,EMP059,100%,no
-EMP060,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR01,135,160,84%,healthy,0,Rajesh Kumar,EMP060,100%,no
-EMP061,IAM,Senior Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP061,0%,Yes
-EMP062,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,140,160,88%,healthy,20,Eliseo Ortiz,EMP062,88%,no
-EMP063,Mainframe,Senior Manager,Offshore (India),PRJ-INS-MF01,136,160,85%,healthy,0,Vikram Malhotra,EMP063,100%,no
-EMP064,SRCR,Manager,Onshore (US),PRJ-CYB-SRCR01,136,160,85%,healthy,0,Eliseo Ortiz,EMP064,100%,no
-EMP065,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM01,136,160,85%,healthy,0,Michael Chang,EMP065,100%,no
-EMP066,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF02,137,160,86%,healthy,0,Eliseo Ortiz,EMP066,100%,no
-EMP067,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,138,160,86%,healthy,0,Michael Chang,EMP067,100%,no
-EMP068,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK01,139,160,87%,healthy,0,Deepak Sharma,EMP068,100%,no
-EMP069,SRCR,Senior Consultant,Onshore (UK),BENCH-CYB,0,160,0%,bench risk,160,Michael Chang,EMP069,0%,Yes
-EMP070,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,111,160,69%,Partial,0,Eliseo Ortiz,EMP070,100%,no
-EMP071,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR01,110,160,69%,Partial,0,Ananya Rao,EMP071,100%,no
-EMP072,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,50,160,31%,bench risk,0,Eliseo Ortiz,EMP072,100%,no
-EMP073,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,60,160,38%,bench risk,0,Julianna Zielinski,EMP073,100%,no
-EMP074,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,42,160,26%,bench risk,0,Matthew Novak,EMP074,100%,no
-EMP075,Duck Creek,Senior Manager,Onshore (UK),PRJ-INS-DUCK02,50,160,31%,bench risk,0,Meredith Grey,EMP075,100%,no
-EMP076,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,80,160,50%,Partial,80,Stanley Kowalski,EMP076,50%,Yes
-EMP077,Duck Creek,Consultant,Onshore (UK),BENCH-INS,0,160,0%,bench risk,160,Harrison Bennett,EMP077,0%,Yes
-EMP078,Mainframe,Senior Manager,Offshore (India),PRJ-INS-MF01,50,160,31%,bench risk,0,Deepak Sharma,EMP078,100%,no
-EMP079,SRCR,Senior Manager,Nearshore (Poland),BENCH-CYB,0,160,0%,bench risk,160,Eleanor Dombrowski,EMP079,0%,Yes
-EMP080,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR02,50,160,31%,bench risk,0,Eliseo Ortiz,EMP080,100%,no
-EMP081,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM02,112,160,70%,healthy,0,Meredith Grey,EMP081,100%,no
-EMP082,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,140,160,88%,healthy,20,Michael Chang,EMP082,88%,no
-EMP083,SRCR,Senior Consultant,Onshore (UK),PRJ-CYB-SRCR02,100,160,63%,Partial,0,Eliseo Ortiz,EMP083,100%,no
-EMP084,IAM,Senior Manager,Offshore (India),PRJ-CYB-IAM02,140,160,88%,healthy,20,Ananya Rao,EMP084,88%,no
-EMP085,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK01,100,160,63%,Partial,0,Michael Chang,EMP085,100%,no
-EMP086,IAM,Senior Manager,Nearshore (Poland),PRJ-CYB-IAM02,102,160,64%,Partial,0,Julianna Zielinski,EMP086,100%,no
-EMP087,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,112,160,70%,healthy,0,Eliseo Ortiz,EMP087,100%,no
-EMP088,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,123,160,77%,healthy,0,Michael Chang,EMP088,100%,no
-EMP089,Mainframe,Manager,Onshore (US),PRJ-INS-MF01,124,160,78%,healthy,0,Harrison Bennett,EMP089,100%,no
-EMP090,Mainframe,Senior Manager,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Matthew Novak,EMP090,0%,Yes
-EMP091,Duck Creek,Manager,Onshore (US),PRJ-INS-DUCK02,111,160,69%,Partial,0,Harrison Bennett,EMP091,100%,no
-EMP092,Duck Creek,Senior Manager,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Eleanor Dombrowski,EMP092,0%,Yes
-EMP093,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK02,112,160,70%,healthy,0,Olivia Benson,EMP093,100%,no
-EMP094,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF01,100,160,63%,Partial,0,Matthew Novak,EMP094,100%,no
-EMP095,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Harrison Bennett,EMP095,100%,Yes
-EMP096,SRCR,Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP096,0%,Yes
-EMP097,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,120,160,75%,healthy,40,Michael Chang,EMP097,75%,Yes
-EMP098,IAM,Manager,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP098,100%,Yes
-EMP099,IAM,Consultant,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP099,100%,Yes
-EMP100,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Meredith Grey,EMP100,100%,Yes
-EMP101,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK01,140,160,88%,healthy,20,Michael Chang,EMP101,88%,no
-EMP102,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP102,100%,Yes
-EMP103,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Meredith Grey,EMP103,100%,Yes
-EMP104,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP104,100%,Yes
-EMP105,Duck Creek,Senior Consultant,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Eleanor Dombrowski,EMP105,0%,Yes
-EMP106,SRCR,Consultant,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Rajesh Kumar,EMP106,100%,Yes
-EMP107,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,140,160,88%,healthy,20,Eliseo Ortiz,EMP107,88%,no
-EMP108,IAM,Manager,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Michael Chang,EMP108,0%,Yes
-EMP109,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,140,160,88%,healthy,20,Michael Chang,EMP109,88%,no
-EMP110,Mainframe,Senior Consultant,Onshore (UK),BENCH-INS,0,160,0%,bench risk,160,Harrison Bennett,EMP110,0%,Yes
-EMP111,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Eliseo Ortiz,EMP111,100%,Yes
-EMP112,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP112,100%,Yes
-EMP113,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,140,160,88%,healthy,20,Eliseo Ortiz,EMP113,88%,no
-EMP114,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Vikram Malhotra,EMP114,100%,Yes
-EMP115,SRCR,Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Michael Chang,EMP115,100%,Yes
-EMP116,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK02,160,160,100%,excellent,0,Eliseo Ortiz,EMP116,100%,Yes
-EMP117,Mainframe,Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Deepak Sharma,EMP117,100%,Yes
-EMP118,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM01,120,160,75%,healthy,40,Harrison Bennett,EMP118,75%,Yes
-EMP119,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Deepak Sharma,EMP119,100%,Yes
-EMP120,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP120,100%,Yes
-EMP121,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM02,120,160,75%,healthy,40,Harrison Bennett,EMP121,75%,Yes
-EMP122,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP122,100%,Yes
-EMP123,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF02,140,160,88%,healthy,20,Eleanor Dombrowski,EMP123,88%,no
-EMP124,IAM,Consultant,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Olivia Benson,EMP124,100%,Yes
-EMP125,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP125,100%,Yes
-EMP126,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Ananya Rao,EMP126,100%,Yes
-EMP127,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Michael Chang,EMP127,100%,Yes
-EMP128,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP128,100%,Yes
-EMP129,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP129,100%,Yes
-EMP130,IAM,Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Eliseo Ortiz,EMP130,100%,Yes
-EMP131,Mainframe,Senior Manager,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Julianna Zielinski,EMP131,0%,Yes
-EMP132,SRCR,Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Stanley Kowalski,EMP132,88%,no
-EMP133,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP133,100%,Yes
-EMP134,Mainframe,Senior Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Rajesh Kumar,EMP134,100%,Yes
-EMP135,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Michael Chang,EMP135,100%,Yes
-EMP136,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Michael Chang,EMP136,100%,Yes
-EMP137,Mainframe,Manager,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP137,100%,Yes
-EMP138,Mainframe,Senior Manager,Onshore (US),PRJ-INS-MF01,120,160,75%,healthy,40,Michael Chang,EMP138,75%,Yes
-EMP139,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP139,100%,Yes
-EMP140,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Matthew Novak,EMP140,100%,Yes
-EMP141,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP141,100%,Yes
-EMP142,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Julianna Zielinski,EMP142,100%,Yes
-EMP143,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Harrison Bennett,EMP143,100%,Yes
-EMP144,IAM,Consultant,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Eliseo Ortiz,EMP144,100%,Yes
-EMP145,Mainframe,Senior Manager,Onshore (US),BENCH-INS,0,160,0%,bench risk,160,Harrison Bennett,EMP145,0%,Yes
-EMP146,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP146,100%,Yes
-EMP147,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Harrison Bennett,EMP147,100%,Yes
-EMP148,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,140,160,88%,healthy,20,Michael Chang,EMP148,88%,no
-EMP149,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Olivia Benson,EMP149,100%,Yes
-EMP150,IAM,Senior Manager,Offshore (India),PRJ-CYB-IAM01,160,160,100%,excellent,0,Ananya Rao,EMP150,100%,Yes
-EMP151,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP151,100%,Yes
-EMP152,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Harrison Bennett,EMP152,100%,Yes
-EMP153,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,120,160,75%,healthy,40,Michael Chang,EMP153,75%,Yes
-EMP154,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP154,100%,Yes
-EMP155,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Olivia Benson,EMP155,100%,Yes
-EMP156,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM01,140,160,88%,healthy,20,Harrison Bennett,EMP156,88%,no
-EMP157,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP157,100%,Yes
-EMP158,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP158,100%,Yes
-EMP159,SRCR,Manager,Offshore (India),BENCH-CYB,0,160,0%,bench risk,160,Deepak Sharma,EMP159,0%,Yes
-EMP160,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP160,100%,Yes
-EMP161,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Meredith Grey,EMP161,100%,Yes
-EMP162,SRCR,Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP162,100%,Yes
-EMP163,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP163,100%,Yes
-EMP164,SRCR,Manager,Nearshore (Poland),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Julianna Zielinski,EMP164,88%,no
-EMP165,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Harrison Bennett,EMP165,100%,Yes
-EMP166,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP166,100%,Yes
-EMP167,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Meredith Grey,EMP167,100%,Yes
-EMP168,SRCR,Senior Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP168,100%,Yes
-EMP169,Duck Creek,Consultant,Nearshore (Poland),PRJ-INS-DUCK01,140,160,88%,healthy,20,Stanley Kowalski,EMP169,88%,no
-EMP170,Duck Creek,Senior Manager,Offshore (India),BENCH-INS,0,160,0%,bench risk,160,Michael Chang,EMP170,0%,Yes
-EMP171,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Michael Chang,EMP171,88%,no
-EMP172,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Julianna Zielinski,EMP172,88%,no
-EMP173,IAM,Senior Manager,Onshore (UK),BENCH-CYB,0,160,0%,bench risk,160,Olivia Benson,EMP173,0%,Yes
-EMP174,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Ananya Rao,EMP174,100%,Yes
-EMP175,SRCR,Manager,Nearshore (Poland),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Stanley Kowalski,EMP175,88%,no
-EMP176,IAM,Consultant,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Julianna Zielinski,EMP176,100%,Yes
-EMP177,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP177,100%,Yes
-EMP178,IAM,Manager,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Olivia Benson,EMP178,100%,Yes
-EMP179,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP179,100%,Yes
-EMP180,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,40,Julianna Zielinski,EMP180,75%,Yes
-EMP181,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Harrison Bennett,EMP181,100%,Yes
-EMP182,Duck Creek,Manager,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP182,100%,Yes
-EMP183,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP183,100%,Yes
-EMP184,Mainframe,Consultant,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Matthew Novak,EMP184,0%,Yes
-EMP185,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Harrison Bennett,EMP185,100%,Yes
-EMP186,SRCR,Senior Consultant,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Ananya Rao,EMP186,100%,Yes
-EMP187,IAM,Senior Manager,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP187,100%,Yes
-EMP188,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Harrison Bennett,EMP188,100%,Yes
-EMP189,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP189,100%,Yes
-EMP190,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Julianna Zielinski,EMP190,100%,Yes
-EMP191,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Meredith Grey,EMP191,100%,Yes
-EMP192,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP192,100%,Yes
-EMP193,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,140,160,88%,healthy,20,Michael Chang,EMP193,88%,no
-EMP194,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP194,100%,Yes
-EMP195,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP195,100%,Yes
-EMP196,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP196,100%,Yes
-EMP197,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Matthew Novak,EMP197,100%,Yes
-EMP198,SRCR,Senior Consultant,Nearshore (Poland),BENCH-CYB,0,160,0%,bench risk,160,Stanley Kowalski,EMP198,0%,Yes
-EMP199,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Rajesh Kumar,EMP199,100%,Yes
-EMP200,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Olivia Benson,EMP200,100%,Yes
-EMP201,SRCR,Senior Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Harrison Bennett,EMP201,100%,Yes
-EMP202,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF02,160,160,100%,excellent,0,Rajesh Kumar,EMP202,100%,Yes
-EMP203,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Michael Chang,EMP203,100%,Yes
-EMP204,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Stanley Kowalski,EMP204,100%,Yes
-EMP205,Duck Creek,Senior Consultant,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Rajesh Kumar,EMP205,100%,Yes
-EMP206,IAM,Senior Consultant,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Stanley Kowalski,EMP206,100%,Yes
-EMP207,Mainframe,Consultant,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Harrison Bennett,EMP207,100%,Yes
-EMP208,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK02,140,160,88%,healthy,20,Michael Chang,EMP208,88%,no
-EMP209,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Meredith Grey,EMP209,100%,Yes
-EMP210,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Julianna Zielinski,EMP210,100%,Yes
-EMP211,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP211,100%,Yes
-EMP212,Mainframe,Senior Manager,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP212,100%,Yes
-EMP213,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF01,140,160,88%,healthy,20,Stanley Kowalski,EMP213,88%,no
-EMP214,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP214,100%,Yes
-EMP215,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP215,100%,Yes
-EMP216,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP216,100%,Yes
-EMP217,SRCR,Consultant,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Ananya Rao,EMP217,100%,Yes
-EMP218,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eliseo Ortiz,EMP218,100%,Yes
-EMP219,IAM,Senior Manager,Nearshore (Poland),PRJ-CYB-IAM01,140,160,88%,healthy,20,Michael Chang,EMP219,88%,no
-EMP220,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP220,100%,Yes
-EMP221,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Eliseo Ortiz,EMP221,100%,Yes
-EMP222,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP222,100%,Yes
-EMP223,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP223,100%,Yes
-EMP224,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK02,120,160,75%,healthy,40,Michael Chang,EMP224,75%,Yes
-EMP225,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Olivia Benson,EMP225,100%,Yes
-EMP226,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Meredith Grey,EMP226,100%,Yes
-EMP227,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Eliseo Ortiz,EMP227,100%,Yes
-EMP228,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eliseo Ortiz,EMP228,100%,Yes
-EMP229,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK02,160,160,100%,excellent,0,Eliseo Ortiz,EMP229,100%,Yes
-EMP230,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Eliseo Ortiz,EMP230,88%,no
-EMP231,IAM,Consultant,Offshore (India),PRJ-CYB-IAM01,160,160,100%,excellent,0,Ananya Rao,EMP231,100%,Yes
-EMP232,SRCR,Senior Consultant,Onshore (UK),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP232,0%,Yes
-EMP233,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Rajesh Kumar,EMP233,100%,Yes
-EMP234,Duck Creek,Senior Manager,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eliseo Ortiz,EMP234,100%,Yes
-EMP235,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP235,100%,Yes
-EMP236,Mainframe,Manager,Offshore (India),PRJ-INS-MF02,160,160,100%,excellent,0,Vikram Malhotra,EMP236,100%,Yes
-EMP237,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Ananya Rao,EMP237,100%,Yes
-EMP238,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Michael Chang,EMP238,88%,no
-EMP239,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Harrison Bennett,EMP239,100%,Yes
-EMP240,IAM,Senior Consultant,Nearshore (Poland),PRJ-CYB-IAM01,140,160,88%,healthy,20,Stanley Kowalski,EMP240,88%,no
-EMP241,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Stanley Kowalski,EMP241,100%,Yes
-EMP242,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Vikram Malhotra,EMP242,100%,Yes
-EMP243,Duck Creek,Consultant,Onshore (US),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP243,100%,Yes
-EMP244,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP244,100%,Yes
-EMP245,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP245,100%,Yes
-EMP246,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP246,100%,Yes
-EMP247,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Deepak Sharma,EMP247,100%,Yes
-EMP248,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Meredith Grey,EMP248,88%,no
-EMP249,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,140,160,88%,healthy,20,Eliseo Ortiz,EMP249,88%,no
-EMP250,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP250,100%,Yes
-EMP251,Duck Creek,Senior Manager,Offshore (India),BENCH-INS,0,160,0%,bench risk,160,Vikram Malhotra,EMP251,0%,Yes
-EMP252,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,140,160,88%,healthy,20,Rajesh Kumar,EMP252,88%,no
-EMP253,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Meredith Grey,EMP253,100%,Yes
-EMP254,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Deepak Sharma,EMP254,100%,Yes
-EMP255,IAM,Senior Consultant,Offshore (India),PRJ-CYB-IAM02,140,160,88%,healthy,20,Michael Chang,EMP255,88%,no
-EMP256,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Harrison Bennett,EMP256,100%,Yes
-EMP257,Mainframe,Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Ananya Rao,EMP257,100%,Yes
-EMP258,Mainframe,Senior Manager,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP258,100%,Yes
-EMP259,Mainframe,Manager,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Eliseo Ortiz,EMP259,100%,Yes
-EMP260,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP260,100%,Yes
-EMP261,Mainframe,Manager,Onshore (US),PRJ-INS-MF01,140,160,88%,healthy,20,Michael Chang,EMP261,88%,no
-EMP262,IAM,Consultant,Onshore (US),PRJ-CYB-IAM02,160,160,100%,excellent,0,Olivia Benson,EMP262,100%,Yes
-EMP263,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,120,160,75%,healthy,40,Michael Chang,EMP263,75%,Yes
-EMP264,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP264,100%,Yes
-EMP265,Mainframe,Senior Manager,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Eliseo Ortiz,EMP265,100%,Yes
-EMP266,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Olivia Benson,EMP266,100%,Yes
-EMP267,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Matthew Novak,EMP267,100%,Yes
-EMP268,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Julianna Zielinski,EMP268,100%,Yes
-EMP269,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP269,100%,Yes
-EMP270,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP270,100%,Yes
-EMP271,Duck Creek,Senior Manager,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP271,100%,Yes
-EMP272,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP272,100%,Yes
-EMP273,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP273,100%,Yes
-EMP274,IAM,Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Meredith Grey,EMP274,100%,Yes
-EMP275,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Michael Chang,EMP275,88%,no
-EMP276,IAM,Consultant,Onshore (US),PRJ-CYB-IAM02,160,160,100%,excellent,0,Harrison Bennett,EMP276,100%,Yes
-EMP277,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Meredith Grey,EMP277,100%,Yes
-EMP278,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Olivia Benson,EMP278,100%,Yes
-EMP279,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,140,160,88%,healthy,20,Harrison Bennett,EMP279,88%,no
-EMP280,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Meredith Grey,EMP280,100%,Yes
-EMP281,Mainframe,Manager,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Olivia Benson,EMP281,100%,Yes
-EMP282,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK02,140,160,88%,healthy,20,Stanley Kowalski,EMP282,88%,no
-EMP283,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP283,100%,Yes
-EMP284,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Vikram Malhotra,EMP284,100%,Yes
-EMP285,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Olivia Benson,EMP285,100%,Yes
-EMP286,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,140,160,88%,healthy,20,Michael Chang,EMP286,88%,no
-EMP287,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP287,100%,Yes
-EMP288,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK02,160,160,100%,excellent,0,Harrison Bennett,EMP288,100%,Yes
-EMP289,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Matthew Novak,EMP289,100%,Yes
-EMP290,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Ananya Rao,EMP290,100%,Yes
-EMP291,Mainframe,Manager,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Meredith Grey,EMP291,100%,Yes
-EMP292,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF01,140,160,88%,healthy,20,Harrison Bennett,EMP292,88%,no
-EMP293,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Harrison Bennett,EMP293,100%,Yes
-EMP294,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Julianna Zielinski,EMP294,100%,Yes
-EMP295,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP295,100%,Yes
-EMP296,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Olivia Benson,EMP296,100%,Yes
-EMP297,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP297,100%,Yes
-EMP298,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Olivia Benson,EMP298,100%,Yes
-EMP299,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Ananya Rao,EMP299,100%,Yes
-EMP300,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Harrison Bennett,EMP300,100%,Yes
+Employee,Skill,Grade,Location,Project,Billable Hours,Available Hours,Utilization,Util Status,Bench,Manager,Employee id
+EMP001,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,80,160,50%,Partial,80,Eliseo Ortiz,EMP001
+EMP002,Duck Creek,Senior Manager,Offshore (India),BENCH-INS,0,160,0%,bench risk,160,Rajesh Kumar,EMP002
+EMP003,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,120,160,75%,healthy,40,Meredith Grey,EMP003
+EMP004,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,70,160,44%,need more allocation,0,Michael Chang,EMP004
+EMP005,IAM,Consultant,Offshore (India),BENCH-CYB,0,160,0%,bench risk,160,Michael Chang,EMP005
+EMP006,Mainframe,Manager,Onshore (US),PRJ-INS-MF02,100,160,63%,Partial,20,Michael Chang,EMP006
+EMP007,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,65,160,41%,need more allocation,0,Michael Chang,EMP007
+EMP008,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,72,160,45%,need more allocation,0,Michael Chang,EMP008
+EMP009,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,110,160,69%,Partial,20,Olivia Benson,EMP009
+EMP010,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK02,71,160,44%,need more allocation,0,Julianna Zielinski,EMP010
+EMP011,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,40,Michael Chang,EMP011
+EMP012,SRCR,Senior Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP012
+EMP013,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,75,160,47%,need more allocation,0,Michael Chang,EMP013
+EMP014,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,76,160,48%,need more allocation,0,Eleanor Dombrowski,EMP014
+EMP015,Mainframe,Manager,Onshore (UK),PRJ-INS-MF01,77,160,48%,need more allocation,0,Michael Chang,EMP015
+EMP016,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,80,160,50%,Partial,0,Harrison Bennett,EMP016
+EMP017,IAM,Senior Consultant,Nearshore (Poland),PRJ-CYB-IAM01,82,160,51%,Partial,0,Eleanor Dombrowski,EMP017
+EMP018,IAM,Senior Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP018
+EMP019,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,81,160,51%,Partial,0,Harrison Bennett,EMP019
+EMP020,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR02,74,160,46%,need more allocation,0,Meredith Grey,EMP020
+EMP021,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,80,160,50%,Partial,80,Vikram Malhotra,EMP021
+EMP022,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,69,160,43%,need more allocation,0,Meredith Grey,EMP022
+EMP023,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,100,160,63%,Partial,0,Meredith Grey,EMP023
+EMP024,SRCR,Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,0,Julianna Zielinski,EMP024
+EMP025,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,99,160,62%,Partial,20,Michael Chang,EMP025
+EMP026,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,90,160,56%,Partial,0,Ananya Rao,EMP026
+EMP027,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK02,100,160,63%,Partial,0,Eliseo Ortiz,EMP027
+EMP028,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,120,160,75%,healthy,40,Matthew Novak,EMP028
+EMP029,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,110,160,69%,Partial,0,Harrison Bennett,EMP029
+EMP030,SRCR,Manager,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Meredith Grey,EMP030
+EMP031,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,96,160,60%,Partial,20,Vikram Malhotra,EMP031
+EMP032,IAM,Consultant,Onshore (US),PRJ-CYB-IAM02,96,160,60%,Partial,20,Olivia Benson,EMP032
+EMP033,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK02,120,160,75%,healthy,0,Deepak Sharma,EMP033
+EMP034,SRCR,Manager,Nearshore (Poland),PRJ-CYB-SRCR02,115,160,72%,healthy,0,Michael Chang,EMP034
+EMP035,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR02,98,160,61%,Partial,20,Olivia Benson,EMP035
+EMP036,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,0,Stanley Kowalski,EMP036
+EMP037,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,96,160,60%,Partial,20,Matthew Novak,EMP037
+EMP038,Duck Creek,Senior Consultant,Offshore (India),PRJ-INS-DUCK01,130,160,81%,healthy,0,Deepak Sharma,EMP038
+EMP039,SRCR,Consultant,Offshore (India),PRJ-CYB-SRCR01,99,160,62%,Partial,0,Michael Chang,EMP039
+EMP040,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,95,160,59%,Partial,0,Eliseo Ortiz,EMP040
+EMP041,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,95,160,59%,Partial,0,Meredith Grey,EMP041
+EMP042,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF01,96,160,60%,Partial,0,Stanley Kowalski,EMP042
+EMP043,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR01,69,160,43%,need more allocation,0,Eleanor Dombrowski,EMP043
+EMP044,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,96,160,60%,Partial,0,Meredith Grey,EMP044
+EMP045,Duck Creek,Senior Manager,Onshore (US),BENCH-INS,0,160,0%,bench risk,160,Eliseo Ortiz,EMP045
+EMP046,Mainframe,Consultant,Offshore (India),PRJ-INS-MF02,99,160,62%,Partial,0,Rajesh Kumar,EMP046
+EMP047,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK01,100,160,63%,Partial,0,Harrison Bennett,EMP047
+EMP048,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,100,160,63%,Partial,0,Stanley Kowalski,EMP048
+EMP049,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF01,120,160,75%,healthy,40,Ananya Rao,EMP049
+EMP050,Mainframe,Senior Manager,Onshore (US),BENCH-INS,0,160,0%,bench risk,160,Eliseo Ortiz,EMP050
+EMP051,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,110,160,69%,Partial,0,Olivia Benson,EMP051
+EMP052,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,111,160,69%,Partial,0,Michael Chang,EMP052
+EMP053,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM02,112,160,70%,healthy,0,Eliseo Ortiz,EMP053
+EMP054,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,120,160,75%,healthy,40,Michael Chang,EMP054
+EMP055,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK01,80,160,50%,Partial,80,Michael Chang,EMP055
+EMP056,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,96,160,60%,Partial,20,Michael Chang,EMP056
+EMP057,IAM,Senior Consultant,Offshore (India),PRJ-CYB-IAM01,113,160,71%,healthy,0,Ananya Rao,EMP057
+EMP058,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK02,133,160,83%,healthy,0,Harrison Bennett,EMP058
+EMP059,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,134,160,84%,healthy,0,Michael Chang,EMP059
+EMP060,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR01,135,160,84%,healthy,0,Rajesh Kumar,EMP060
+EMP061,IAM,Senior Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP061
+EMP062,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,140,160,88%,healthy,20,Eliseo Ortiz,EMP062
+EMP063,Mainframe,Senior Manager,Offshore (India),PRJ-INS-MF01,136,160,85%,healthy,0,Vikram Malhotra,EMP063
+EMP064,SRCR,Manager,Onshore (US),PRJ-CYB-SRCR01,136,160,85%,healthy,0,Eliseo Ortiz,EMP064
+EMP065,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM01,136,160,85%,healthy,0,Michael Chang,EMP065
+EMP066,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF02,137,160,86%,healthy,0,Eliseo Ortiz,EMP066
+EMP067,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,138,160,86%,healthy,0,Michael Chang,EMP067
+EMP068,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK01,139,160,87%,healthy,0,Deepak Sharma,EMP068
+EMP069,SRCR,Senior Consultant,Onshore (UK),BENCH-CYB,0,160,0%,bench risk,160,Michael Chang,EMP069
+EMP070,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,111,160,69%,Partial,0,Eliseo Ortiz,EMP070
+EMP071,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR01,110,160,69%,Partial,0,Ananya Rao,EMP071
+EMP072,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,50,160,31%,bench risk,0,Eliseo Ortiz,EMP072
+EMP073,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,60,160,38%,bench risk,0,Julianna Zielinski,EMP073
+EMP074,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,42,160,26%,bench risk,0,Matthew Novak,EMP074
+EMP075,Duck Creek,Senior Manager,Onshore (UK),PRJ-INS-DUCK02,50,160,31%,bench risk,0,Meredith Grey,EMP075
+EMP076,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,80,160,50%,Partial,80,Stanley Kowalski,EMP076
+EMP077,Duck Creek,Consultant,Onshore (UK),BENCH-INS,0,160,0%,bench risk,160,Harrison Bennett,EMP077
+EMP078,Mainframe,Senior Manager,Offshore (India),PRJ-INS-MF01,50,160,31%,bench risk,0,Deepak Sharma,EMP078
+EMP079,SRCR,Senior Manager,Nearshore (Poland),BENCH-CYB,0,160,0%,bench risk,160,Eleanor Dombrowski,EMP079
+EMP080,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR02,50,160,31%,bench risk,0,Eliseo Ortiz,EMP080
+EMP081,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM02,112,160,70%,healthy,0,Meredith Grey,EMP081
+EMP082,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,140,160,88%,healthy,20,Michael Chang,EMP082
+EMP083,SRCR,Senior Consultant,Onshore (UK),PRJ-CYB-SRCR02,100,160,63%,Partial,0,Eliseo Ortiz,EMP083
+EMP084,IAM,Senior Manager,Offshore (India),PRJ-CYB-IAM02,140,160,88%,healthy,20,Ananya Rao,EMP084
+EMP085,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK01,100,160,63%,Partial,0,Michael Chang,EMP085
+EMP086,IAM,Senior Manager,Nearshore (Poland),PRJ-CYB-IAM02,102,160,64%,Partial,0,Julianna Zielinski,EMP086
+EMP087,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,112,160,70%,healthy,0,Eliseo Ortiz,EMP087
+EMP088,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,123,160,77%,healthy,0,Michael Chang,EMP088
+EMP089,Mainframe,Manager,Onshore (US),PRJ-INS-MF01,124,160,78%,healthy,0,Harrison Bennett,EMP089
+EMP090,Mainframe,Senior Manager,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Matthew Novak,EMP090
+EMP091,Duck Creek,Manager,Onshore (US),PRJ-INS-DUCK02,111,160,69%,Partial,0,Harrison Bennett,EMP091
+EMP092,Duck Creek,Senior Manager,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Eleanor Dombrowski,EMP092
+EMP093,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK02,112,160,70%,healthy,0,Olivia Benson,EMP093
+EMP094,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF01,100,160,63%,Partial,0,Matthew Novak,EMP094
+EMP095,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Harrison Bennett,EMP095
+EMP096,SRCR,Consultant,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP096
+EMP097,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,120,160,75%,healthy,40,Michael Chang,EMP097
+EMP098,IAM,Manager,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP098
+EMP099,IAM,Consultant,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP099
+EMP100,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Meredith Grey,EMP100
+EMP101,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK01,140,160,88%,healthy,20,Michael Chang,EMP101
+EMP102,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP102
+EMP103,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Meredith Grey,EMP103
+EMP104,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP104
+EMP105,Duck Creek,Senior Consultant,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Eleanor Dombrowski,EMP105
+EMP106,SRCR,Consultant,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Rajesh Kumar,EMP106
+EMP107,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,140,160,88%,healthy,20,Eliseo Ortiz,EMP107
+EMP108,IAM,Manager,Onshore (US),BENCH-CYB,0,160,0%,bench risk,160,Michael Chang,EMP108
+EMP109,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,140,160,88%,healthy,20,Michael Chang,EMP109
+EMP110,Mainframe,Senior Consultant,Onshore (UK),BENCH-INS,0,160,0%,bench risk,160,Harrison Bennett,EMP110
+EMP111,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Eliseo Ortiz,EMP111
+EMP112,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP112
+EMP113,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,140,160,88%,healthy,20,Eliseo Ortiz,EMP113
+EMP114,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Vikram Malhotra,EMP114
+EMP115,SRCR,Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Michael Chang,EMP115
+EMP116,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK02,160,160,100%,excellent,0,Eliseo Ortiz,EMP116
+EMP117,Mainframe,Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Deepak Sharma,EMP117
+EMP118,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM01,120,160,75%,healthy,40,Harrison Bennett,EMP118
+EMP119,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Deepak Sharma,EMP119
+EMP120,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP120
+EMP121,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM02,120,160,75%,healthy,40,Harrison Bennett,EMP121
+EMP122,IAM,Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP122
+EMP123,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF02,140,160,88%,healthy,20,Eleanor Dombrowski,EMP123
+EMP124,IAM,Consultant,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Olivia Benson,EMP124
+EMP125,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP125
+EMP126,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Ananya Rao,EMP126
+EMP127,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Michael Chang,EMP127
+EMP128,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP128
+EMP129,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP129
+EMP130,IAM,Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Eliseo Ortiz,EMP130
+EMP131,Mainframe,Senior Manager,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Julianna Zielinski,EMP131
+EMP132,SRCR,Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Stanley Kowalski,EMP132
+EMP133,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP133
+EMP134,Mainframe,Senior Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Rajesh Kumar,EMP134
+EMP135,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Michael Chang,EMP135
+EMP136,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Michael Chang,EMP136
+EMP137,Mainframe,Manager,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP137
+EMP138,Mainframe,Senior Manager,Onshore (US),PRJ-INS-MF01,120,160,75%,healthy,40,Michael Chang,EMP138
+EMP139,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP139
+EMP140,SRCR,Senior Manager,Nearshore (Poland),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Matthew Novak,EMP140
+EMP141,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP141
+EMP142,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Julianna Zielinski,EMP142
+EMP143,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Harrison Bennett,EMP143
+EMP144,IAM,Consultant,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Eliseo Ortiz,EMP144
+EMP145,Mainframe,Senior Manager,Onshore (US),BENCH-INS,0,160,0%,bench risk,160,Harrison Bennett,EMP145
+EMP146,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP146
+EMP147,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Harrison Bennett,EMP147
+EMP148,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,140,160,88%,healthy,20,Michael Chang,EMP148
+EMP149,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Olivia Benson,EMP149
+EMP150,IAM,Senior Manager,Offshore (India),PRJ-CYB-IAM01,160,160,100%,excellent,0,Ananya Rao,EMP150
+EMP151,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP151
+EMP152,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Harrison Bennett,EMP152
+EMP153,Mainframe,Consultant,Onshore (US),PRJ-INS-MF02,120,160,75%,healthy,40,Michael Chang,EMP153
+EMP154,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP154
+EMP155,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Olivia Benson,EMP155
+EMP156,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM01,140,160,88%,healthy,20,Harrison Bennett,EMP156
+EMP157,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP157
+EMP158,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP158
+EMP159,SRCR,Manager,Offshore (India),BENCH-CYB,0,160,0%,bench risk,160,Deepak Sharma,EMP159
+EMP160,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP160
+EMP161,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Meredith Grey,EMP161
+EMP162,SRCR,Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP162
+EMP163,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP163
+EMP164,SRCR,Manager,Nearshore (Poland),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Julianna Zielinski,EMP164
+EMP165,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Harrison Bennett,EMP165
+EMP166,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP166
+EMP167,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Meredith Grey,EMP167
+EMP168,SRCR,Senior Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP168
+EMP169,Duck Creek,Consultant,Nearshore (Poland),PRJ-INS-DUCK01,140,160,88%,healthy,20,Stanley Kowalski,EMP169
+EMP170,Duck Creek,Senior Manager,Offshore (India),BENCH-INS,0,160,0%,bench risk,160,Michael Chang,EMP170
+EMP171,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Michael Chang,EMP171
+EMP172,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Julianna Zielinski,EMP172
+EMP173,IAM,Senior Manager,Onshore (UK),BENCH-CYB,0,160,0%,bench risk,160,Olivia Benson,EMP173
+EMP174,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Ananya Rao,EMP174
+EMP175,SRCR,Manager,Nearshore (Poland),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Stanley Kowalski,EMP175
+EMP176,IAM,Consultant,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Julianna Zielinski,EMP176
+EMP177,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP177
+EMP178,IAM,Manager,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Olivia Benson,EMP178
+EMP179,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP179
+EMP180,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR02,120,160,75%,healthy,40,Julianna Zielinski,EMP180
+EMP181,IAM,Senior Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Harrison Bennett,EMP181
+EMP182,Duck Creek,Manager,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP182
+EMP183,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP183
+EMP184,Mainframe,Consultant,Nearshore (Poland),BENCH-INS,0,160,0%,bench risk,160,Matthew Novak,EMP184
+EMP185,IAM,Senior Consultant,Onshore (UK),PRJ-CYB-IAM01,160,160,100%,excellent,0,Harrison Bennett,EMP185
+EMP186,SRCR,Senior Consultant,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Ananya Rao,EMP186
+EMP187,IAM,Senior Manager,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP187
+EMP188,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Harrison Bennett,EMP188
+EMP189,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP189
+EMP190,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Julianna Zielinski,EMP190
+EMP191,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Meredith Grey,EMP191
+EMP192,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP192
+EMP193,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,140,160,88%,healthy,20,Michael Chang,EMP193
+EMP194,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Eliseo Ortiz,EMP194
+EMP195,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP195
+EMP196,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP196
+EMP197,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Matthew Novak,EMP197
+EMP198,SRCR,Senior Consultant,Nearshore (Poland),BENCH-CYB,0,160,0%,bench risk,160,Stanley Kowalski,EMP198
+EMP199,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Rajesh Kumar,EMP199
+EMP200,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Olivia Benson,EMP200
+EMP201,SRCR,Senior Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Harrison Bennett,EMP201
+EMP202,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF02,160,160,100%,excellent,0,Rajesh Kumar,EMP202
+EMP203,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Michael Chang,EMP203
+EMP204,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Stanley Kowalski,EMP204
+EMP205,Duck Creek,Senior Consultant,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Rajesh Kumar,EMP205
+EMP206,IAM,Senior Consultant,Nearshore (Poland),PRJ-CYB-IAM01,160,160,100%,excellent,0,Stanley Kowalski,EMP206
+EMP207,Mainframe,Consultant,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Harrison Bennett,EMP207
+EMP208,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK02,140,160,88%,healthy,20,Michael Chang,EMP208
+EMP209,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Meredith Grey,EMP209
+EMP210,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Julianna Zielinski,EMP210
+EMP211,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP211
+EMP212,Mainframe,Senior Manager,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP212
+EMP213,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF01,140,160,88%,healthy,20,Stanley Kowalski,EMP213
+EMP214,Mainframe,Senior Consultant,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Eliseo Ortiz,EMP214
+EMP215,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Michael Chang,EMP215
+EMP216,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP216
+EMP217,SRCR,Consultant,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Ananya Rao,EMP217
+EMP218,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eliseo Ortiz,EMP218
+EMP219,IAM,Senior Manager,Nearshore (Poland),PRJ-CYB-IAM01,140,160,88%,healthy,20,Michael Chang,EMP219
+EMP220,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP220
+EMP221,IAM,Senior Consultant,Onshore (US),PRJ-CYB-IAM01,160,160,100%,excellent,0,Eliseo Ortiz,EMP221
+EMP222,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Eleanor Dombrowski,EMP222
+EMP223,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP223
+EMP224,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK02,120,160,75%,healthy,40,Michael Chang,EMP224
+EMP225,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Olivia Benson,EMP225
+EMP226,SRCR,Senior Manager,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Meredith Grey,EMP226
+EMP227,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Eliseo Ortiz,EMP227
+EMP228,Duck Creek,Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eliseo Ortiz,EMP228
+EMP229,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK02,160,160,100%,excellent,0,Eliseo Ortiz,EMP229
+EMP230,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Eliseo Ortiz,EMP230
+EMP231,IAM,Consultant,Offshore (India),PRJ-CYB-IAM01,160,160,100%,excellent,0,Ananya Rao,EMP231
+EMP232,SRCR,Senior Consultant,Onshore (UK),BENCH-CYB,0,160,0%,bench risk,160,Harrison Bennett,EMP232
+EMP233,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Rajesh Kumar,EMP233
+EMP234,Duck Creek,Senior Manager,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eliseo Ortiz,EMP234
+EMP235,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP235
+EMP236,Mainframe,Manager,Offshore (India),PRJ-INS-MF02,160,160,100%,excellent,0,Vikram Malhotra,EMP236
+EMP237,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Ananya Rao,EMP237
+EMP238,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Michael Chang,EMP238
+EMP239,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Harrison Bennett,EMP239
+EMP240,IAM,Senior Consultant,Nearshore (Poland),PRJ-CYB-IAM01,140,160,88%,healthy,20,Stanley Kowalski,EMP240
+EMP241,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK02,160,160,100%,excellent,0,Stanley Kowalski,EMP241
+EMP242,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Vikram Malhotra,EMP242
+EMP243,Duck Creek,Consultant,Onshore (US),PRJ-INS-DUCK02,160,160,100%,excellent,0,Michael Chang,EMP243
+EMP244,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP244
+EMP245,SRCR,Senior Consultant,Nearshore (Poland),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP245
+EMP246,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP246
+EMP247,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Deepak Sharma,EMP247
+EMP248,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,140,160,88%,healthy,20,Meredith Grey,EMP248
+EMP249,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,140,160,88%,healthy,20,Eliseo Ortiz,EMP249
+EMP250,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP250
+EMP251,Duck Creek,Senior Manager,Offshore (India),BENCH-INS,0,160,0%,bench risk,160,Vikram Malhotra,EMP251
+EMP252,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,140,160,88%,healthy,20,Rajesh Kumar,EMP252
+EMP253,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Meredith Grey,EMP253
+EMP254,SRCR,Manager,Offshore (India),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Deepak Sharma,EMP254
+EMP255,IAM,Senior Consultant,Offshore (India),PRJ-CYB-IAM02,140,160,88%,healthy,20,Michael Chang,EMP255
+EMP256,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Harrison Bennett,EMP256
+EMP257,Mainframe,Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Ananya Rao,EMP257
+EMP258,Mainframe,Senior Manager,Onshore (US),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP258
+EMP259,Mainframe,Manager,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Eliseo Ortiz,EMP259
+EMP260,Duck Creek,Senior Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP260
+EMP261,Mainframe,Manager,Onshore (US),PRJ-INS-MF01,140,160,88%,healthy,20,Michael Chang,EMP261
+EMP262,IAM,Consultant,Onshore (US),PRJ-CYB-IAM02,160,160,100%,excellent,0,Olivia Benson,EMP262
+EMP263,Duck Creek,Manager,Onshore (UK),PRJ-INS-DUCK01,120,160,75%,healthy,40,Michael Chang,EMP263
+EMP264,Mainframe,Manager,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Michael Chang,EMP264
+EMP265,Mainframe,Senior Manager,Onshore (US),PRJ-INS-MF01,160,160,100%,excellent,0,Eliseo Ortiz,EMP265
+EMP266,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Olivia Benson,EMP266
+EMP267,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Matthew Novak,EMP267
+EMP268,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Julianna Zielinski,EMP268
+EMP269,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP269
+EMP270,Mainframe,Consultant,Nearshore (Poland),PRJ-INS-MF02,160,160,100%,excellent,0,Michael Chang,EMP270
+EMP271,Duck Creek,Senior Manager,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP271
+EMP272,Mainframe,Senior Consultant,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP272
+EMP273,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP273
+EMP274,IAM,Manager,Onshore (UK),PRJ-CYB-IAM02,160,160,100%,excellent,0,Meredith Grey,EMP274
+EMP275,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,140,160,88%,healthy,20,Michael Chang,EMP275
+EMP276,IAM,Consultant,Onshore (US),PRJ-CYB-IAM02,160,160,100%,excellent,0,Harrison Bennett,EMP276
+EMP277,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Meredith Grey,EMP277
+EMP278,Duck Creek,Senior Manager,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Olivia Benson,EMP278
+EMP279,Mainframe,Senior Consultant,Onshore (UK),PRJ-INS-MF02,140,160,88%,healthy,20,Harrison Bennett,EMP279
+EMP280,Duck Creek,Senior Consultant,Onshore (US),PRJ-INS-DUCK01,160,160,100%,excellent,0,Meredith Grey,EMP280
+EMP281,Mainframe,Manager,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Olivia Benson,EMP281
+EMP282,Duck Creek,Senior Consultant,Nearshore (Poland),PRJ-INS-DUCK02,140,160,88%,healthy,20,Stanley Kowalski,EMP282
+EMP283,SRCR,Consultant,Onshore (US),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Michael Chang,EMP283
+EMP284,Mainframe,Senior Consultant,Offshore (India),PRJ-INS-MF01,160,160,100%,excellent,0,Vikram Malhotra,EMP284
+EMP285,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Olivia Benson,EMP285
+EMP286,Duck Creek,Senior Manager,Offshore (India),PRJ-INS-DUCK02,140,160,88%,healthy,20,Michael Chang,EMP286
+EMP287,Duck Creek,Manager,Nearshore (Poland),PRJ-INS-DUCK01,160,160,100%,excellent,0,Eleanor Dombrowski,EMP287
+EMP288,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK02,160,160,100%,excellent,0,Harrison Bennett,EMP288
+EMP289,Mainframe,Senior Manager,Nearshore (Poland),PRJ-INS-MF01,160,160,100%,excellent,0,Matthew Novak,EMP289
+EMP290,Duck Creek,Consultant,Offshore (India),PRJ-INS-DUCK02,160,160,100%,excellent,0,Ananya Rao,EMP290
+EMP291,Mainframe,Manager,Onshore (UK),PRJ-INS-MF01,160,160,100%,excellent,0,Meredith Grey,EMP291
+EMP292,Mainframe,Consultant,Onshore (UK),PRJ-INS-MF01,140,160,88%,healthy,20,Harrison Bennett,EMP292
+EMP293,SRCR,Consultant,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Harrison Bennett,EMP293
+EMP294,IAM,Manager,Nearshore (Poland),PRJ-CYB-IAM02,160,160,100%,excellent,0,Julianna Zielinski,EMP294
+EMP295,SRCR,Senior Manager,Onshore (UK),PRJ-CYB-SRCR01,160,160,100%,excellent,0,Olivia Benson,EMP295
+EMP296,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Olivia Benson,EMP296
+EMP297,Duck Creek,Senior Consultant,Onshore (UK),PRJ-INS-DUCK01,160,160,100%,excellent,0,Harrison Bennett,EMP297
+EMP298,SRCR,Senior Consultant,Onshore (US),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Olivia Benson,EMP298
+EMP299,Duck Creek,Manager,Offshore (India),PRJ-INS-DUCK01,160,160,100%,excellent,0,Ananya Rao,EMP299
+EMP300,SRCR,Manager,Onshore (UK),PRJ-CYB-SRCR02,160,160,100%,excellent,0,Harrison Bennett,EMP300
