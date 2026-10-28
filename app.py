@@ -16,7 +16,12 @@ def load_custom_data():
     if df['Utilization'].dtype == 'object':
         df['Utilization_Rate'] = df['Utilization'].str.rstrip('%').astype('float')
     else:
-        df['Utilization_Rate'] = df['Utilization'] * 100 if df['Utilization'].max() <= 1.0 else df['Utilization']
+        # FIXED: Changed the single-line ternary conditional to a clean, valid block
+        if df['Utilization'].max() <= 1.0:
+            df['Utilization_Rate'] = df['Utilization'] * 100
+        else:
+            df['Utilization_Rate'] = df['Utilization']
+            
     return df
 
 try:
