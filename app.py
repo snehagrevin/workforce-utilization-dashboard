@@ -12,15 +12,16 @@ st.markdown("Operational metrics tracking resource allocations, bench status, an
 def load_custom_data():
     df = pd.read_csv('workforce_data.csv')
     
-    # Standardize string representations of percentages to floating values
-    if df['Utilization'].dtype == 'object':
-        df['Utilization_Rate'] = df['Utilization'].str.rstrip('%').astype('float')
-    else:
-        # FIXED: Changed the single-line ternary conditional to a clean, valid block
-        if df['Utilization'].max() <= 1.0:
-            df['Utilization_Rate'] = df['Utilization'] * 100
-        else:
-            df['Utilization_Rate'] = df['Utilization']
+    # Clean the Utilization column regardless of how pandas infers its dtype
+    # Convert all values to strings temporarily to safely strip trailing percentage marks
+    cleaned_util = df['Utilization'].astype(str).str.rstrip('%')
+    
+    # Safely convert to numeric floats (any non-convertible text turns to NaN instead of breaking)
+    df['Utilization_Rate'] = pd.to_numeric(cleaned_util, errors='coerce')
+    
+    # Scale decimal values up to 100 base percentage marks if values are written as fractions
+    if df['Utilization_Rate'].max() <= 1.0:
+        df['Utilization_Rate'] = df['Utilization_Rate'] * 100
             
     return df
 
