@@ -7,19 +7,26 @@ st.set_page_config(page_title="Workforce Capacity & Utilization Tracker", layout
 st.title("📊 Workforce Capacity & Utilization Analytics")
 st.markdown("Operational metrics tracking resource allocations, bench status, and technical domain capabilities.")
 
-# 1. Safely load your custom Google Sheet CSV export
-@st.cache_data
+# 1. Safely load live data directly from your Google Sheet CSV export link
+@st.cache_data(ttl=300)  # Re-fetches fresh live data automatically every 5 minutes
 def load_custom_data():
-    df = pd.read_csv('workforce_data.csv')
+    # Your Google Sheet share link formatted as a direct CSV export endpoint
+    sheet_id = "1jGWp82ZtlcwNW4Sm9QVt-jg_yW-DyvJtYu3l44gdqP0"
+    live_csv_url = f"https://google.com{sheet_id}/export?format=csv"
+    
+    try:
+        df = pd.read_csv(live_csv_url)
+    except Exception:
+        # Fallback to local file if the live internet connection drops
+        df = pd.read_csv('workforce_data.csv')
     
     # Clean the Utilization column regardless of how pandas infers its dtype
-    # Convert all values to strings temporarily to safely strip trailing percentage marks
     cleaned_util = df['Utilization'].astype(str).str.rstrip('%')
     
     # Safely convert to numeric floats (any non-convertible text turns to NaN instead of breaking)
     df['Utilization_Rate'] = pd.to_numeric(cleaned_util, errors='coerce')
     
-    # Scale decimal values up to 100 base percentage marks if values are written as fractions
+    # Scale decimal entries (e.g., 0.85 -> 85.0) up to percentage metrics
     if df['Utilization_Rate'].max() <= 1.0:
         df['Utilization_Rate'] = df['Utilization_Rate'] * 100
             
@@ -126,4 +133,4 @@ try:
     )
 
 except FileNotFoundError:
-    st.error("⚠️ File 'workforce_data.csv' not found. Please export your Google Sheet data as a CSV and save it into your project folder.")
+    st.error("⚠️ Data file not found. Please verify your Google Sheet is accessible or a backup 'workforce_data.csv' is present.")
